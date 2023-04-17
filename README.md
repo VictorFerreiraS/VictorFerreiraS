@@ -6,7 +6,7 @@ Sou um desenvolvedor full stack que se aprofunda na área web desde 2020, utiliz
 
 - 📫 How to reach me **victor.fagundes586@gmail.com**
 
-- 📄 Know about my experiences [https://resume-586.web.app/](https://resume-586.web.app/)
+  - 📄 Know about my experiences: <a href="https://resume-586.web.app/" > Curriculum </a>
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/victor-fagundes-ferreira/" > Linkedin </a></h3>
 <p align="left">
