@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer | Desenvolvedor)`**
 
-Sou um desenvolvedor full stack que se aprofunda na área web desde 2020, utilizando das maiores tecnologias para se tornar aquilo que é o profissional do mundo moderno independente e ágil. Todos projetos construídos from the ground up, do planejamento ao design juntando agrupando todos meus conhecimentos para um objetivo <b> solving real life challenges with code!<b/>
+Sou um desenvolvedor full stack que se aprofunda na área web desde 2020, utilizando das maiores tecnologias para se tornar aquilo que é o profissional do mundo moderno, independente e ágil. Todos projetos construídos from the ground up, do planejamento ao design juntando agrupando todos meus conhecimentos para um objetivo <b> solving real life challenges with code!<b/>
 
 - 📫 How to reach me **victor.fagundes586@gmail.com**
 
