@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer | Desenvolvedor)`**
 
-Sou um desenvolvedor full stack que se aprofunda na área web desde 2020, utilizando das maiores tecnologias para se tornar aquilo que é o profissional do mundo moderno, independente e ágil. Todos projetos construídos from the ground up, do planejamento ao design juntando agrupando todos meus conhecimentos para um objetivo <b> solving real life challenges with code!<b/>
+Welcome to my GitHub profile! I'm a self-taught full stack developer with a passion for using the latest technologies to create modern, robust, and efficient solutions. With coding experience since 2020, I have continuously honed my skills to become an independent and agile professional. My primary objective is to leverage my knowledge to  <b> solving real life challenges through code!<b/>
 
 - 📫 How to reach me **victor.fagundes586@gmail.com**
 
